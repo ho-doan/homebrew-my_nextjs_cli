@@ -1,9 +1,9 @@
 class MyNextjsCli < Formula
   desc "My Next.js CLI"
   homepage "https://github.com/ho-doan/homebrew-my_nextjs_cli"
-  url "https://github.com/ho-doan/homebrew-my_nextjs_cli/releases/download/v1.0.4/my_nextjs_cli-macos-arm64.tar.gz"
-  sha256 "c61dbb50beed9983225beed6a6335e4dce9c16ecd4ed6486f4b98e36fb639e0b"
-  version "1.0.4"
+  url "https://github.com/ho-doan/homebrew-my_nextjs_cli/releases/download/v1.0.5/my_nextjs_cli-macos-arm64.tar.gz"
+  sha256 "fb48a0fccce8ec1c9691702a6aa92cd748f8ab1b923458274160f7f4eb645088"
+  version "1.0.5"
 
   def install
     bin.install "my_nextjs_cli"
